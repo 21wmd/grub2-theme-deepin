@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Wang Mingdong <wangmingdong@linuxdeepin.com>
 Build-Depends: debhelper (>= 8)
 Standards-Version: 3.9.2
-Homepage: http://code.google.com/p/gwrite
-Vcs-Browser: http://git.debian.org/?p=collab-maint/gwrite.git
-Vcs-Git: git://git.debian.org/collab-maint/gwrite.git
+Homepage: http://www.linuxdeepin.com/
+Vcs-Browser: https://github.com/21wmd/grub2-theme-deepin
+Vcs-Git: git://github.com/21wmd/grub2-theme-deepin.git
 
 Package: grub2-theme-deepin
 Architecture: all
