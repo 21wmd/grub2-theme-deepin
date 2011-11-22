@@ -1,0 +1,12 @@
+Source: grub2-theme-deepin
+Priority: optional
+Section: misc
+Maintainer: Leng Ganghua <hiweed@gmail.com>
+Standards-Version: 3.7.2
+Build-Depends: debhelper (>= 5.0.0)
+
+Package: grub2-theme-deepin
+Architecture: all
+Depends: grub-pc
+Description: Grub2 theme for Linux Deepin
+ Grub2 theme for Linux Deepin

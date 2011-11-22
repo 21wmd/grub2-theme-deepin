@@ -1,0 +1,29 @@
+grub2-theme-deepin (1.0.2.1) oneiric; urgency=low
+
+  * build for oneiric.
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Wed, 24 Aug 2011 13:00:36 +0800
+
+grub2-theme-deepin (1.0.2-2) natty; urgency=low
+
+  * Changed background image
+
+ -- Leng Ganghua <hiweed@gmail.com>  Tue, 14 Jun 2011 10:29:28 +0800
+
+grub2-theme-deepin (1.0.1-1) natty; urgency=low
+
+  * build for natty
+
+ -- Leng Ganghua <hiweed@gmail.com>  Sat, 04 Jun 2011 11:12:28 +0800
+
+grub2-theme-deepin (1.0.1) natty; urgency=low
+
+  * Added Depends: grub-pc
+
+ -- Leng Ganghua <hiweed@gmail.com>  Wed, 06 Apr 2011 20:23:34 +0800
+
+grub2-theme-deepin (1.0.0) maverick; urgency=low
+
+  * Initial release
+
+ -- Leng Ganghua <hiweed@gmail.com>  Tue,  12 Oct 2010 04:28:00 +0800
